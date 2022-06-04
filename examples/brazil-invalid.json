@@ -1,0 +1,15 @@
+{
+	"name": "Brazil",
+	"code": "BR",
+	"capital": "Brasilia",
+	"states": [
+		{
+			"name": "Sao Paulo",
+			"code": "SP",
+		},
+		{
+			"name": "Santa Catarina",
+			"code": "SC",
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Eder",
+	"age": 20,
+	"address": {
+		"city": "Sao Paulo",
+		"country": "Brazil"
+	}
+}
